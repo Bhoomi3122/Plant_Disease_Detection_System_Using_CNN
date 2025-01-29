@@ -7,7 +7,6 @@ The **Plant Disease Detection using CNN** project aims to help farmers by using 
 ## 🚀 Features
 
 - **Disease Detection**: Automatically detects plant diseases from images of plant leaves.
-- **Actionable Feedback**: Provides suggestions for treatment and care based on the disease detected.
 - **High Accuracy**: Achieves high prediction accuracy using a trained Convolutional Neural Network (CNN).
 - **User-Friendly Interface**: Built with Streamlit to make it easy for farmers to upload images and receive feedback.
 
