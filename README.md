@@ -22,9 +22,14 @@ The **Plant Disease Detection using CNN** project aims to help farmers by using 
 - **User Interface**: Streamlit
 - **Environment**: Jupyter Notebooks
 
+The dataset used in this project is available for download from the following link: https://rb.gy/xinzp4
+
 ## 🔧 Requirements
 
 To run this project, install the following dependencies:
 
 ```bash
 pip install numpy pickle-mixin streamlit seaborn pandas matplotlib scikit-learn tensorflow keras opencv-python-headless
+
+
+
