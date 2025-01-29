@@ -1,0 +1,10 @@
+numpy: For numerical computations and array handling.
+pickle-mixin: For saving and loading objects in Python.
+streamlit: To create a user-friendly interface for deploying the model.
+seaborn: For creating visualizations like heatmaps to analyze data.
+pandas: For data manipulation and analysis tasks.
+matplotlib: For plotting and visualizing data and results.
+scikit-learn: For model evaluation metrics and data preprocessing.
+tensorflow: For building and training the Convolutional Neural Network (CNN).
+keras: High-level API for designing and training neural networks.
+opencv-python-headless: For image processing in environments without GUI.
